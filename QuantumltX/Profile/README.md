@@ -1,3 +1,6 @@
+## 修改远程地址自用
+
+
 ### QuantumultX懒人配置
 
 - ***[Orz-3](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf)***
